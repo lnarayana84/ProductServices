@@ -1,0 +1,202 @@
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\obj\Debug\ProductsAPI.csprojAssemblyReference.cache
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\obj\Debug\ProductsAPI.csproj.CoreCompileInputs.cache
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\ApplicationInsights.config
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\ProductsAPI.dll.config
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\ProductsAPI.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\ProductsAPI.pdb
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\csc.exe
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\csc.exe.config
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\csc.rsp
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\csi.exe
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\csi.exe.config
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\csi.rsp
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.AppContext.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Console.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\vbc.exe
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\vbc.exe.config
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\vbc.rsp
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Antlr3.Runtime.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\EntityFramework.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.AI.Web.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Newtonsoft.Json.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Helpers.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Http.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Mvc.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Optimization.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Razor.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\WebGrease.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\EntityFramework.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Newtonsoft.Json.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Helpers.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Http.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Mvc.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Optimization.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.Razor.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Antlr3.Runtime.pdb
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.AI.Web.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\obj\Debug\ProductsAPI.csproj.CopyComplete
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\obj\Debug\ProductsAPI.dll
+C:\Users\LAXMINARAYANA\Source\Repos\ProductsAPI\ProductsAPI\obj\Debug\ProductsAPI.pdb
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\ApplicationInsights.config
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\ProductsAPI.dll.config
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\ProductsAPI.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\ProductsAPI.pdb
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\csc.exe
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\csc.exe.config
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\csc.rsp
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\csi.exe
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\csi.exe.config
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\csi.rsp
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.AppContext.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Console.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.IO.Compression.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Claims.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.ValueTuple.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\vbc.exe
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\vbc.exe.config
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\vbc.rsp
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\VBCSCompiler.exe
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Antlr3.Runtime.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\EntityFramework.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\EntityFramework.SqlServer.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.AI.Web.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Newtonsoft.Json.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Net.Http.Formatting.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Helpers.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Http.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Http.WebHost.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Mvc.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Optimization.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Razor.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.Razor.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\WebGrease.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\EntityFramework.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\EntityFramework.SqlServer.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Newtonsoft.Json.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Net.Http.Formatting.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Helpers.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Http.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Http.WebHost.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Mvc.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Optimization.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.Razor.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Web.WebPages.Razor.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Antlr3.Runtime.pdb
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.AI.Web.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Working Folder\ProductsAPI\ProductsAPI\obj\Debug\ProductsAPI.csprojAssemblyReference.cache
+D:\Working Folder\ProductsAPI\ProductsAPI\obj\Debug\ProductsAPI.csproj.CoreCompileInputs.cache
+D:\Working Folder\ProductsAPI\ProductsAPI\obj\Debug\ProductsAPI.csproj.CopyComplete
+D:\Working Folder\ProductsAPI\ProductsAPI\obj\Debug\ProductsAPI.dll
+D:\Working Folder\ProductsAPI\ProductsAPI\obj\Debug\ProductsAPI.pdb
